@@ -1,0 +1,5 @@
+venv
+deployment/
+
+*.pyc
+__pycache__/
